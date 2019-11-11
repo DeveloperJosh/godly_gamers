@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Godly Home
+title: Index.html
 
 ---
 Welcome to Godly Gamers, We are a discord bot development and website development company
